@@ -1,0 +1,15 @@
+/Users/andreea/Desktop/newTimeTracking/TimeTrackingApi/publish/TimeTrackingApi
+/Users/andreea/Desktop/newTimeTracking/TimeTrackingApi/publish/appsettings.Development.json
+/Users/andreea/Desktop/newTimeTracking/TimeTrackingApi/publish/appsettings.json
+/Users/andreea/Desktop/newTimeTracking/TimeTrackingApi/publish/TimeTrackingApi.dll
+/Users/andreea/Desktop/newTimeTracking/TimeTrackingApi/publish/TimeTrackingApi.deps.json
+/Users/andreea/Desktop/newTimeTracking/TimeTrackingApi/publish/TimeTrackingApi.runtimeconfig.json
+/Users/andreea/Desktop/newTimeTracking/TimeTrackingApi/publish/TimeTrackingApi.pdb
+/Users/andreea/Desktop/newTimeTracking/TimeTrackingApi/publish/Microsoft.EntityFrameworkCore.dll
+/Users/andreea/Desktop/newTimeTracking/TimeTrackingApi/publish/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/andreea/Desktop/newTimeTracking/TimeTrackingApi/publish/Microsoft.EntityFrameworkCore.InMemory.dll
+/Users/andreea/Desktop/newTimeTracking/TimeTrackingApi/publish/Microsoft.Extensions.Caching.Memory.dll
+/Users/andreea/Desktop/newTimeTracking/TimeTrackingApi/publish/Microsoft.OpenApi.dll
+/Users/andreea/Desktop/newTimeTracking/TimeTrackingApi/publish/Swashbuckle.AspNetCore.Swagger.dll
+/Users/andreea/Desktop/newTimeTracking/TimeTrackingApi/publish/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/andreea/Desktop/newTimeTracking/TimeTrackingApi/publish/Swashbuckle.AspNetCore.SwaggerUI.dll
